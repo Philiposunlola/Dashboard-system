@@ -33,6 +33,7 @@
       <script>
           // Output PHP variables into JavaScript variables
           <?php include 'data.php'; ?>
+        
   
           // Rest of your JavaScript code for Chart.js and data updates
           // ...
